@@ -6,6 +6,7 @@ from os import path, makedirs
 from datetime import datetime
 from collections import defaultdict
 from Child import Child
+#katherine propose changes
 
 parser = ArgumentParser(prog='Sentence Triggers', description='Record which pieces of a sentence trigger a parameter')
 
